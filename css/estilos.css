@@ -1,0 +1,33 @@
+    /* body {
+
+        background-color: red;
+    }
+
+    h1 {
+
+        text-align: center;
+        font-size: 60px;
+    } */
+
+    .colorUno {
+
+        background-color: #ae1325;
+    }
+
+    .colorDos  {
+
+        background-color: #f72332;
+    }
+
+    .colorTres {
+
+        background-color: #412688;
+    }
+
+    .encabezado {
+
+        background-color: #ae1325;
+        font-size: 60px;
+        text-align: center;
+        color: white;
+    }
